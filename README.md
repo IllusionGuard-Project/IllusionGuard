@@ -10,13 +10,12 @@ In addition, it provides the **dataset generation scripts** and the **source cod
 ### 📂 Repository Structure
 
 IllusionGuard/
+├── Platforms_Illusion_Images/ *# Collected harmful text illusion images from X, Reddit, and TikTok*  **Available now**
 
-├── Platforms_Illusion_Images/**            **# Collected harmful text illusion images from X, Reddit, and TikTok  **Available now**
+├── Dataset_Generation_Scripts/ *# Scripts for generating datasets* **Coming soon**
 
-├── Dataset_Generation_Scripts/**           **# Scripts for generating datasets                                    **Coming soon**
+├── Datasets/ *# Datasets utilized in this study* **Coming soon**
 
-├── Datasets/**                             **# Datasets utilized in this study                                    **Coming soon**
+├── Source_Code/ *# Implementation of the IllusionGuard framework* **Coming soon**
 
-├── Source_Code/**                          **# Implementation of the IllusionGuard framework                      **Coming soon**
-
-└── README.md**                             **# Project documentation                                              **Available now**
+└── README.md *# Project documentation* **Available now**
