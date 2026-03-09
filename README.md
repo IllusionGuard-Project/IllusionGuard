@@ -15,7 +15,7 @@ IllusionGuard/
 
 ├── Dataset_Generation_Scripts/ *# Scripts for generating datasets* **Coming soon**
 
-├── Datasets/ *# Datasets utilized in this study* **Coming soon**
+├── Datasets/ *# Datasets utilized in this study* 
 
 ├── Source_Code/ *# Implementation of the IllusionGuard framework* **Coming soon**
 
