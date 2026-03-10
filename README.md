@@ -17,6 +17,6 @@ IllusionGuard/
 
 ├── Datasets/ *# Datasets utilized in this study*  **Available now**
 
-├── Source_Code/ *# Implementation of the IllusionGuard framework* **Coming soon**
+├── Source_Code/ *# Implementation of the IllusionGuard framework* **Available now**
 
 └── README.md *# Project documentation* **Available now**
